@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Canopy & Soil Calculator",
+  "description": "A professional-grade calculator for urban planners and landscape architects to manage tree canopy targets and deep soil volume requirements.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
